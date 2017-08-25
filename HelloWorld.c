@@ -1,3 +1,5 @@
+/* Testing the CI */
+
 #include <stdio.h>
 
 static int con = 1;
